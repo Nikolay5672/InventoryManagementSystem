@@ -1,4 +1,5 @@
 Inventory Management System
+
 The Inventory Management System is a Java-based application developed as part of a Sirma Academy project. It provides a structured approach to managing inventory, processing orders, and handling payments efficiently.
 
 Key Features:
